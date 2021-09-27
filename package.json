@@ -1,0 +1,22 @@
+{
+  "name": "oh-no",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.6.0",
+    "@discordjs/voice": "^0.6.0",
+    "discord.js": "^13.1.0",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-static": "^4.4.0",
+    "get-mp3-duration": "^1.0.0",
+    "libsodium-wrappers": "^0.7.9",
+    "nodemon": "^2.0.13",
+    "tweetnacl": "^1.0.3"
+  }
+}
